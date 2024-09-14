@@ -88,6 +88,13 @@ export const resources: Resource[] = [
         url: 'https://jobspresso.co/',
     },
     {
+        name: 'JobsitesHub',
+        categories: ['Job', 'Remote'],
+        description:
+            'JobsitesHub provides an all-in-one directory hand-crafted for the best job hunting sites.',
+        url: 'https://jobsiteshub.com/',
+    },
+    {
         name: 'JS Remotely',
         categories: ['Job', 'Remote'],
         description:
