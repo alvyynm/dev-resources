@@ -1,5 +1,5 @@
 {
-"count": 912,
+"count": 913,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5340,6 +5340,15 @@
         ],
         "description": "A Job Board for Tech Enthusiasts.",
         "url": "https://joblist.app/"
+    },
+    {
+        "name": "JobsitesHub",
+        "categories": [
+            "Job",
+            "Remote"
+        ],
+        "description": "JobsitesHub provides an all-in-one directory hand-crafted for the best job hunting sites.",
+        "url": "https://jobsiteshub.com/"
     },
     {
         "name": "Jobspresso",

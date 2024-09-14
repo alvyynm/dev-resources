@@ -90,8 +90,7 @@ export const resources: Resource[] = [
     {
         name: 'JobsitesHub',
         categories: ['Job', 'Remote'],
-        description:
-            'JobsitesHub provides an all-in-one directory hand-crafted for the best job hunting sites.',
+        description: 'JobsitesHub provides an all-in-one directory hand-crafted for the best job hunting sites.',
         url: 'https://jobsiteshub.com/',
     },
     {
